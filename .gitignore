@@ -1,0 +1,8 @@
+raw_data/
+raw_adata/
+*.h5ad
+*.h5
+*.mtx.gz
+*.tsv.gz
+.ipynb_checkpoints/
+.DS_Store
