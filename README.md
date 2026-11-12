@@ -12,6 +12,7 @@ Download the data and store in a directory named Raw_data.
 ## Analysis
 What each notebook does:
 - '00_convert_raw_to_h5ad.ipynb' converts the raw files into AnnData
+- '01_qc_two_samples.ipynb' QC walkthrough on DX and REM samples.
 
 ## Setup
 conda env create -f environment.yml
